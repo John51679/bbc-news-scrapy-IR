@@ -1,5 +1,5 @@
 # BBC news site crawler for Information Retrieval (IR)
-A University project to create a crawler to fetch news content from a news site and after preproccesing it, store it into an inverted index file (xml file).
+This project was created as part of "Language Technology" subject in Computer Engineering & Informatics Department (CEID) of University of Patras. We created a crawler to fetch news content from a news site and after preproccesing it, store it into an inverted index file (xml file).
 
 The inverted index, is then used in the process of information retrieval for query answering.
 
